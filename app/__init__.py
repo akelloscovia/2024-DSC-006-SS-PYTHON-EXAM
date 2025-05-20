@@ -67,7 +67,7 @@ def create_app():
             <h1>🎉 Welcome to the Intermediate Python Exam</h1>
             <p>Congratulations, you have successfully launched the app!</p>
             <p>You may now embark on the exam. Stay focused and give it your best shot.</p>
-            <a href="#" class="btn">Good Luck</a>
+            <a href="#" class="btn">Good Luck 💪🚀</a>
         </div>
     </body>
     </html>
