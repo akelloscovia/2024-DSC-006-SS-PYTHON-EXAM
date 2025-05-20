@@ -67,7 +67,7 @@ def create_app():
             <h1>🎉 Welcome to Your Exam</h1>
             <p>Congratulations, you have successfully launched the app!</p>
             <p>You may now embark on the exam. Stay focused and give it your best shot.</p>
-            <a href="/start-exam" class="btn">Start Exam</a>
+            <a href="#" class="btn">Start Exam</a>
         </div>
     </body>
     </html>
